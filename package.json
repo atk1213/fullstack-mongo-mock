@@ -1,13 +1,13 @@
 {
-  "name": "fullstack-rev-sql",
+  "name": "fullstack-mongo-mock",
   "version": "1.0.0",
-  "description": "a repo to practice working with a full stack application using a sql database",
+  "description": "a repo to practice working with a full stack application using a nosql database",
   "main": "./server/index.js",
   "scripts": {
     "build": "webpack -w",
     "start": "nodemon"
   },
-  "repository": "https://github.com/atk1213/fullstack-rev-sql.git",
+  "repository": "https://github.com/atk1213/fullstack-mongo-mock",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.18.0",
