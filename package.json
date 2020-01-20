@@ -1,0 +1,32 @@
+{
+  "name": "fullstack-rev-sql",
+  "version": "1.0.0",
+  "description": "a repo to practice working with a full stack application using a sql database",
+  "main": "./server/index.js",
+  "scripts": {
+    "build": "webpack -w",
+    "start": "nodemon"
+  },
+  "repository": "https://github.com/atk1213/fullstack-rev-sql.git",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "bootstrap": "^4.3.1",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.18.10",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "mongoose": "^4.9.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.3.4",
+    "@babel/preset-env": "^7.3.4",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.5",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
+  }
+}
