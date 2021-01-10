@@ -10,7 +10,7 @@
   "repository": "https://github.com/atk1213/fullstack-mongo-mock",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "body-parser": "^1.18.3",
     "bootstrap": "^4.3.1",
     "cors": "^2.8.5",
@@ -19,7 +19,7 @@
     "nodemon": "^1.18.10",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
-    "mongoose": "^4.9.6"
+    "mongoose": "^4.13.20"
   },
   "devDependencies": {
     "@babel/core": "^7.3.4",
